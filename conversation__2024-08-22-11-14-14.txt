@@ -1,0 +1,5 @@
+Cyber Mate >>> Hey there, I am an Ai power ChatBot to help to maintain your Cyber Hygiene! Go ahead and clarify your doubts.
+
+User: tell me something about cyber hacking in one sentence
+AI: Cyber hacking refers to the unauthorized access, use, or modification of digital information systems, networks, or devices by individuals or groups with malicious intent.
+

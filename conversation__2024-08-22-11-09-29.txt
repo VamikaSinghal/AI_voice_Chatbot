@@ -1,0 +1,5 @@
+Cyber Mate >>> Hey there, I am an Ai power ChatBot to help to maintain your Cyber Hygiene! Go ahead and clarify your doubts.
+
+User: cyber hacking Kya Hota Hai
+AI: Cyber hacking kuch aur kehte hai Cyber attack ya Cyber crime. Yah koi vishay hai jaha kisi vyakti ya group ne internet par, computer, phone ya dusre digital devices ko hack karke unmein data, money ya anya mahatvapurn chijon ka malik ban leta hai. Yah apne dushmano ki tarf se hota hai aur yah kehte hai Cyber attack.
+

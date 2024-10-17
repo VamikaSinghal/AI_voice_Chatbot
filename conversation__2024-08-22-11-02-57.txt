@@ -1,0 +1,11 @@
+Cyber Mate >>> Hey there, I am an Ai power ChatBot to help to maintain your Cyber Hygiene! Go ahead and clarify your doubts.
+
+User: Tell me about staying protected from fishing in only 2 points
+AI: To stay protected from phishing:
+
+1. Be cautious with links and attachments in emails, messages, or any form of online communication. Verify the authenticity of senders and hover over links to check their destination before clicking.
+2. Use two-factor authentication (2FA) whenever possible, especially on accounts that handle sensitive information like banking, email, or social media. This adds an extra layer of security against phishing attempts that rely on password guessing or stealing.
+
+User: what is hacking
+AI: **Hacking refers to the unauthorized access or manipulation of computer systems, networks, or data. It involves using various techniques, such as exploiting vulnerabilities or guessing passwords, to bypass security measures and gain control over a system or sensitive information.**
+
